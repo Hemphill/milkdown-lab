@@ -20,6 +20,7 @@
     "milkdown-plugin"
   ],
   "author": "enpitsulin <enpitsulin@gmail.com>",
+  "fork-author": "hemphill",
   "peerDependencies": {
     "@milkdown/core": ">=7.0.0",
     "@milkdown/prose": ">=7.0.0"
