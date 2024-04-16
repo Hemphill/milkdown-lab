@@ -14,6 +14,7 @@
     "test": "pnpm test --filter=./e2e"
   },
   "author": "enpitsulin",
+  "fork-author": "hemphill",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
